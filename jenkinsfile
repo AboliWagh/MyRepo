@@ -10,7 +10,7 @@ pipeline {
         stages {
         stage('Another Stage') {
             steps {
-                echo 'I am Here....Hello Everyone **********'
+                echo *************'I am Here....Hello Everyone **********'
             }
         }
     }
